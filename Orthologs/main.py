@@ -2,7 +2,7 @@ from Bio.Seq import Seq
 from Bio.Blast import NCBIWWW
 from Bio.Blast import NCBIXML
 from Bio import Entrez
-Entrez.email = "darthvaderpowns@gmail.com" #FIXME, add in your own email.
+Entrez.email = "" #FIXME, add in your own email.
 import os
 import ssl
 
